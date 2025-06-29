@@ -103,3 +103,8 @@ npm run dev
 - Resume Coaching: Feedback generated for students for each CV
 
 - Blind Screening: Objective LLMs reduce human bias during shortlisting
+
+## Screenshots
+
+### Recruiter Side
+
