@@ -28,7 +28,53 @@ The **CV Align Platform** revolutionizes recruitment by automating the manual re
 ### 5. Role-Based Access
 - **Students**: Upload CVs, view their feedback  
 - **Recruiters**: Post jobs, upload JDs, view candidate evaluations  
-- **Admins**: Manage users and monitor overall platform metrics  
+- **Admins**: Manage users and monitor overall platform metrics
+
+## Screenshots
+
+Landing Page
+
+![Image](https://github.com/user-attachments/assets/399d0160-7fac-4411-9bb2-fcd8c27cfec6)
+
+### Recruiter Side
+
+Profile
+
+![Image](https://github.com/user-attachments/assets/3c0758f6-6e2a-4de1-9cb0-98054f0a1299)
+
+Upload Job Description
+
+![Image](https://github.com/user-attachments/assets/187172fb-fb23-4c32-ba9b-45098c0567b7)
+
+See Results
+
+![Image](https://github.com/user-attachments/assets/22d4a2a6-7385-46c6-a66f-bb79ab40b9cc)
+
+Update Status
+
+![Image](https://github.com/user-attachments/assets/dda0ced4-3df2-402d-a971-2cae2b541fab)
+
+Dashboard
+
+![Image](https://github.com/user-attachments/assets/d3662e58-84a5-424b-bcb1-61d066c03dc4)
+
+### Student Side
+
+Profile
+
+![Image](https://github.com/user-attachments/assets/3dde9142-5c15-46e4-a31d-82876b405186)
+
+Search Jobs and Apply
+
+![Image](https://github.com/user-attachments/assets/5fd69191-f38f-454e-88bf-1d8c4ef6ab18)
+
+See Feedback
+
+![Image](https://github.com/user-attachments/assets/dc105b77-5c7b-4be0-9e2c-f381185431c6)
+
+Dashboard
+
+![Image](https://github.com/user-attachments/assets/fd6cbd85-5e6c-42b5-8a32-77b72875f0a6)
 
 ## Tech Stack
 
@@ -103,52 +149,6 @@ npm run dev
 - Resume Coaching: Feedback generated for students for each CV
 
 - Blind Screening: Objective LLMs reduce human bias during shortlisting
-
-## Screenshots
-
-Landing Page
-
-![Image](https://github.com/user-attachments/assets/399d0160-7fac-4411-9bb2-fcd8c27cfec6)
-
-### Recruiter Side
-
-Profile
-
-![Image](https://github.com/user-attachments/assets/3c0758f6-6e2a-4de1-9cb0-98054f0a1299)
-
-Upload Job Description
-
-![Image](https://github.com/user-attachments/assets/187172fb-fb23-4c32-ba9b-45098c0567b7)
-
-See Results
-
-![Image](https://github.com/user-attachments/assets/22d4a2a6-7385-46c6-a66f-bb79ab40b9cc)
-
-Update Status
-
-![Image](https://github.com/user-attachments/assets/dda0ced4-3df2-402d-a971-2cae2b541fab)
-
-Dashboard
-
-![Image](https://github.com/user-attachments/assets/d3662e58-84a5-424b-bcb1-61d066c03dc4)
-
-### Student Side
-
-Profile
-
-![Image](https://github.com/user-attachments/assets/3dde9142-5c15-46e4-a31d-82876b405186)
-
-Search Jobs and Apply
-
-![Image](https://github.com/user-attachments/assets/5fd69191-f38f-454e-88bf-1d8c4ef6ab18)
-
-See Feedback
-
-![Image](https://github.com/user-attachments/assets/dc105b77-5c7b-4be0-9e2c-f381185431c6)
-
-Dashboard
-
-![Image](https://github.com/user-attachments/assets/fd6cbd85-5e6c-42b5-8a32-77b72875f0a6)
 
 ## Team
 - Lakshmi C    
